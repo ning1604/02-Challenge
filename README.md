@@ -10,13 +10,12 @@ https://ning1604.github.io/Code-refactor-for-Horiseon-Social-Solution-Services-w
 
   1. Have this repository open in GitHub and click "Code" and copy the given URL.
   2. Open Git Bash and change to a directory where you want to create the local clone.
-  3. Once in the chosen directory location, types in the following command and paste in the url of the repository in step 1.
-  git clone "exampleUrl"
+  3. Once in the chosen directory location, type in the following command (step 4) and paste in the url of the repository from step 1.
+  4. git clone "exampleUrl"
   Tip: Ensure that that your URL is inclosed in the quotations.
 
 ## Usage
 
-```md
 ![alt text](Develop/assets/images/ScreenshotOfNavbar.png)
-```
+
 Clicking on any of the three links in the navigation bar (in the header) will bring you down to the section part of the webpage.
