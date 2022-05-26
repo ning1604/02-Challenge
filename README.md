@@ -16,6 +16,6 @@ https://ning1604.github.io/Code-refactor-for-Horiseon-Social-Solution-Services-w
 
 ## Usage
 
-![Image of navigation bar links](Develop/assets/images/ScreenshotOfNavbar.png)
+![Image of navigation bar links](02-Challenge\Develop\assets\images\ScreenshotOfNavbar.png)
 
 Clicking on any of the three links in the navigation bar (in the header) will bring you down to the section part of the webpage.
