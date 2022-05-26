@@ -4,7 +4,16 @@
 
 To review and make changes to the client's codebase ensuring that it follows accessibility standards so that the site (Horiseon Social Solution Services) is optimised for search engines. To achieve the given criteria, multiple addition and revisions were made to the source code such as, the addition of semantic HTML elements, the reorganisation of elements into a more logical structure, the addition of accessible alt attributes, correct usage of heading attributes, and the addition of a concise, descriptive title. Other additional changes include, making the navigation bar links all function correctly, and the addition of comments to css file for ease of navigation.
 
+The URL of the deployed application:
 https://ning1604.github.io/Code-refactor-for-Horiseon-Social-Solution-Services-website/
+The URL of the GitHub repository:
+https://github.com/ning1604/Code-refactor-for-Horiseon-Social-Solution-Services-website
+
+## Mock-Up
+
+The following image shows the web application's appearance and functionality:
+
+![Image of mock up webpage](Develop/assets/images/mock-up-page.png)
 
 ## Installation
 
